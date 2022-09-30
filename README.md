@@ -20,7 +20,7 @@ We will cover four topics that should provide a sufficient understanding of spik
 2. **Kilosort and high-density silicon probes:** Electrodes with hundreds of closely spaced sites require new algorithms for spike sorting. Kilosort has become one of the more popular packages for this, so we will examine how it works.
     - *Kilosort: realtime spike-sorting for extracellular electrophysiology with hundreds of channels* [link](https://www.biorxiv.org/content/biorxiv/early/2016/06/30/061481.full.pdf)
     - *Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings* [link](https://www.science.org/doi/10.1126/science.abf4588)
-3. **Quality control metrics:** The quality of spike groups can be evaluated for strength over background noise, distinctiveness from other groups, and consistency with arising from a single neuron. We will cover multiple metrics for evaluating these.
+3. **Quality control metrics:** The quality of spike groups can be evaluated for their strength over background noise, distinctiveness from other groups, and consistency with arising from a single neuron. We will cover multiple metrics for evaluating these.
     - *Accuracy of Tetrode Spike Separation as Determined by Simultaneous Intracellular and Extracellular Measurements* [link](https://journals.physiology.org/doi/full/10.1152/jn.2000.84.1.401)
     - *Quality Metrics to Accompany Spike Sorting of Extracellular Signals* [link](https://www.jneurosci.org/content/31/24/8699.short)
     - *Quantitative measures of cluster quality for use in extracellular recordings* [link](https://www.sciencedirect.com/science/article/pii/S0306452204008425?via%3Dihub)
