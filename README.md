@@ -24,6 +24,6 @@ We will cover four topics that should provide a sufficient understanding of spik
     - *Accuracy of Tetrode Spike Separation as Determined by Simultaneous Intracellular and Extracellular Measurements* [link](https://journals.physiology.org/doi/full/10.1152/jn.2000.84.1.401)
     - *Quality Metrics to Accompany Spike Sorting of Extracellular Signals* [link](https://www.jneurosci.org/content/31/24/8699.short)
     - *Quantitative measures of cluster quality for use in extracellular recordings* [link](https://www.sciencedirect.com/science/article/pii/S0306452204008425?via%3Dihub)
-4. **Interpreting spike waveforms** Spikes from single neurons reflect their transmembrane currents and orientation and distance from the recording electrodes. These can systematically
+4. **Interpreting spike waveforms** Spikes from single neurons reflect their transmembrane currents, morphology, orientation, and distance from the recording electrodes. These systematically affect spike waveform shape, and in some cases can be diagnostic of cell type. This meeting will cover some basic applications of these principles.
     - *On the Origin of the Extracellular Action Potential Waveform: A Modeling Study* [link](https://journals.physiology.org/doi/full/10.1152/jn.00979.2005)
     - *Characterization of neocortical principal cells and interneurons by network interactions and extracellular features* [link](https://journals.physiology.org/doi/full/10.1152/jn.01170.2003)
