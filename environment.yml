@@ -1,20 +1,64 @@
-name: base
+name: spikesort-env
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - conda
-  - python=3.9
-  - python.app
-  - conda-env
-  - conda-build
-  - conda-verify
-  - _ipyw_jlab_nb_ext_conf
-  - anaconda==2021.11=py39_0
-  - anaconda-navigator==2.1.2
-  - navigator-updater
-  - bokeh
-  - holoviews
-  - pyedflib
-  - scikit-image
-prefix: /Users/drewbheadley/opt/anaconda3
+  - ipython
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - pip
+  - decorator
+  - backports.functools_lru_cache
+  - prompt-toolkit
+  - ca-certificates
+  - pure_eval
+  - matplotlib-inline
+  - wcwidth
+  - ncurses
+  - xz
+  - debugpy
+  - backports
+  - libzlib
+  - libcxx
+  - python-dateutil
+  - wheel
+  - entrypoints
+  - jedi
+  - traitlets
+  - pickleshare
+  - parso
+  - psutil
+  - pygments
+  - openssl
+  - setuptools
+  - tornado
+  - bzip2
+  - libsqlite
+  - pyzmq
+  - jupyter_core
+  - pexpect
+  - zeromq
+  - asttokens
+  - executing
+  - jupyter_client
+  - python_abi
+  - ptyprocess
+  - pyparsing
+  - tzdata
+  - readline
+  - nest-asyncio
+  - packaging
+  - stack_data
+  - libsodium
+  - backcall
+  - tk
+  - appnope
+  - six
+  - libffi
+  - python=3.10
+  - ipykernel
+  - seaborn
+  - umap-learn
+prefix: /Users/drewbheadley/opt/anaconda3/envs/spikesort-env
