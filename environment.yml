@@ -61,4 +61,5 @@ dependencies:
   - ipykernel
   - seaborn
   - umap-learn
+  - scikit-image
 prefix: /Users/drewbheadley/opt/anaconda3/envs/spikesort-env
